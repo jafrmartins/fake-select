@@ -1,0 +1,6 @@
+{
+  select: [
+    { label: "Um", value: "1", selected: true },
+    { label: "Dois", value: "2" },
+  ]
+}
